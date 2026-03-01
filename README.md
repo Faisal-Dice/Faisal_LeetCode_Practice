@@ -1,4 +1,4 @@
-# 🚀 Faisal LeetCode Practice
+# 🚀 Faisal Hussain LeetCode Practice
 
 Welcome to my LeetCode problem-solving journey!
 
