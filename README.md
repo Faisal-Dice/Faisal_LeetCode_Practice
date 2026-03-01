@@ -43,6 +43,14 @@ If you'd like to improve a solution or suggest optimizations, feel free to open 
 ## 📈 Progress
 
 I update this repository regularly as I solve new problems.
+## 📊 Problem Progress
+
+| Difficulty | Solved |
+|------------|--------|
+| Easy       | 00     |
+| Medium     | 00     |
+| Hard       | 00     |
+| **Total**  | 00     |
 
 ---
 
